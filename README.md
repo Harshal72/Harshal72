@@ -3,7 +3,8 @@
 - 👨‍🎓 I'm Pursuing my Degree in computer engineering 
 - 🌱 I’m currently learning Languages Like C++ and Javascript 
 - 💞️ I’m looking to collaborate on Projects On Python , HTML , CSS as I have been in this type of domain
-- 📫 How to reach me ...
+- 📫 How to reach me ? I have my Linkdin account
+- ( My Linkdin Profile page Link - "" )
 
 <!---
 Harshal72/Harshal72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
